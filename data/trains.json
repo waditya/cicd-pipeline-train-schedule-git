@@ -81,6 +81,41 @@
 					"delayedDeparture": "1:17pm"
 				}
 			]
+		},
+		{
+			"name": "Deccan Queen",
+			"stops": [
+				{
+					"station": "Mumbai CST",
+					"status": "ON-TIME",
+					"arrival": "12:00pm",
+					"departure": "12:10pm"
+				},
+				{
+					"station": "Dadar",
+					"status": "DELAYED",
+					"arrival": "1:00pm",
+					"departure": "1:10pm",
+					"delayedArrival": "1:07pm",
+					"delayedDeparture": "1:17pm"
+				},
+				{
+					"station": "Shivaji Nagar, Pune",
+					"status": "DELAYED",
+					"arrival": "1:00pm",
+					"departure": "1:10pm",
+					"delayedArrival": "1:07pm",
+					"delayedDeparture": "1:17pm"
+				},
+				{
+					"station": "Pune Station",
+					"status": "ON-TIME",
+					"arrival": "1:10pm",
+					"departure": "1:30pm",
+					"delayedArrival": "1:10pm",
+					"delayedDeparture": "1:20pm"
+				}
+			]
 		}
 	]
 }
